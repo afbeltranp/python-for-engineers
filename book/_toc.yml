@@ -11,6 +11,7 @@ parts:
     chapters:
     - file: some_content/overview.md
       sections:
+      - file: some_content/live_code_tags.md
       - file: some_content/text_and_code.ipynb
       - file: file_to_be_added_to_toc.md
       - file: file_on_new_version.md
