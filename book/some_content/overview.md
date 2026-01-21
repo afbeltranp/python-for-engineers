@@ -22,5 +22,3 @@ v = a \cdot t
 ```
 
 The displacement can be found using the equation $s = v \cdot t$.
-
-$$ \olive{\int_a^bf(x)dx} $$
