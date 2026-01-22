@@ -1,0 +1,28 @@
+[
+  {
+    "question": "Pick one:",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "The Python interpreter will run the program as normal, since the code inside is still Python.",
+        "correct": false,
+        "feedback": "Incorrect!"
+      },
+      {
+        "answer": "The Python interpreter will not recognize the file as a Python script, and you may get an error.",
+        "correct": true,
+        "feedback": "Correct!"
+      },
+      {
+        "answer": "The file will automatically open in Microsoft Word.",
+        "correct": false,
+        "feedback": "Incorrect!"
+      },
+      {
+        "answer": "The terminal will rename the file back to `scripts.py` before running it.",
+        "correct": false,
+        "feedback": "Incorrect!"
+      }
+    ]
+  }
+]
