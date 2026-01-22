@@ -12,20 +12,13 @@ parts:
         - file: python_basics/02_interactive_python_and_arithmetic_basics.ipynb
         - file: python_basics/03_variables.ipynb
         - file: python_basics/04_files_and_script.ipynb
+        - file: python_basics/05_print_function.ipynb
      - file: some_content/overview.md
        sections:
         - file: some_content/text_and_code.ipynb
-  - caption: Exercises
+  - caption: Labs
     chapters:
      - file: syntax_exercises.md
-       sections:
-        - file: syntax_exercises/007.md
-        - file: syntax_exercises/008.md
-        - file: syntax_exercises/009.md
-        - file: syntax_exercises/010.md
-        - file: syntax_exercises/011.md
-        - file: syntax_exercises/012.md
-        - file: syntax_exercises/013.md
   - caption: Miscellaneous
     chapters:
      - file: references.md
