@@ -9,6 +9,10 @@ parts:
      - file: 01_orientation/00_overview.md
        sections:
         - file: 01_orientation/01_syllabus.ipynb
+        - file: 01_orientation/02_mteams.ipynb
+        - file: 01_orientation/03_class_schedule.ipynb
+        - file: 01_orientation/04_vscode.ipynb
+        - file: 01_orientation/05_ai.ipynb
      - file: python_basics/00_overview.md
        sections:
         - file: python_basics/01_codio_workspace.ipynb
