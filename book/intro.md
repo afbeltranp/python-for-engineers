@@ -1,7 +1,7 @@
 (intro)=
-# 🐍 Welcome to the Python for Engineers Course
+# 🐍 Bienvenido al Curso de Introducción a la Programacón
 
-## Getting Started: What to Expect
+## Comenzando: Qué Esperar
 
-We're very happy to have you along for **Python for Engineers**.  
-This course is designed to provide you with the tools, skills, and confidence to write Python code for engineering practice.
+Estamos muy contentos de tenerte en **Introducción a la Programacón**.  
+Este curso está diseñado para brindarte las herramientas, habilidades y confianza para escribir código Python para la práctica de ingeniería.
