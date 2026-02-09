@@ -25,13 +25,13 @@ parts:
      - file: 03_cond_loop_list/00_overview.md
        sections:
        - file: 03_cond_loop_list/01_cond.md
-       - file: 03_cond_loop_lis/02_logops.md
-       - file: 03_cond_loop_lis/03_while.md
-       - file: 03_cond_loop_lis/04_list.md
-       - file: 03_cond_loop_lis/05_for.md
-       - file: 03_cond_loop_lis/06_minmax.md
-       - file: 03_cond_loop_lis/07_nested.md
-       - file: 03_cond_loop_lis/08_denmo.md
+       - file: 03_cond_loop_list/02_logops.md
+       - file: 03_cond_loop_list/03_while.md
+       - file: 03_cond_loop_list/04_list.md
+       - file: 03_cond_loop_list/05_for.md
+       - file: 03_cond_loop_list/06_minmax.md
+       - file: 03_cond_loop_list/07_nested.md
+       - file: 03_cond_loop_list/08_denmo.md
 
   #   - file: data_types_and_program_control_i/00_overview.md
   #     sections:
